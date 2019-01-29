@@ -1,0 +1,256 @@
+<priyankasaggu119> Waiting for 5 more minutes to see if anyone else joins too.
+<priyankasaggu119> s/joins/join
+<priyankasaggu119> ohk till then everyone tell me, how is your experience so far, using this IRC(Internet Relay Chat).
+<priyankasaggu119> Honest comments are appreciated :p
+<Nishnt> T
+<pankajpoply45> One issue. Chats are not saved.
+<jyoti_> nice experience
+<priyankasaggu119> I am working on a solution for that. But we are using IRC because it works on a low bandwidth, don't require much of your data. And this is what you will come across while meeting and greeting great developers and coders in open source.
+<priyankasaggu119> Nishnt, T means?
+* Pawan_ (75e0c288@gateway/web/freenode/ip.117.224.194.136) has joined
+<Nishnt> It's by mistake
+<priyankasaggu119> Ohk, nobody is coming let's start our session for today.
+<priyankasaggu119> If it is fine to you all, before starting with Git and GitHub, I want to cover the basic guidelines of using IRC?
+<priyankasaggu119> If fine, everyone please say yes.
+<jyoti_> yes
+<Nishnt> Yes
+* Pawan__ (75e1f6f5@gateway/web/freenode/ip.117.225.246.245) has joined
+<priyankasaggu119> pankajpoply45, Pawan_ ?
+<Pawan__> Hello everyone
+<pankajpoply45> Yes
+* Pawan_ has quit (Client Quit)
+<priyankasaggu119> Ohk give me a second. I am adding our bot into our channel now.
+<priyankasaggu119> I want no one to speak until I ask you. So, that everyone can understand what is going on in the channel.
+* gbot (~gbot@157.36.241.180) has joined
+<priyankasaggu119> #startclass
+<gbot> Class Started. Raise your hands by typing "!" to ask your question.
+<priyankasaggu119> Rules for the sessions
+<priyankasaggu119> 1. Do not speak when the session is going on.
+<priyankasaggu119> 2. If you have a question type ! and wait for your turn.
+<priyankasaggu119> 3. Try to come online 5 minutes before the session starts.
+<priyankasaggu119> 4. Address people by their IRC nick.
+<priyankasaggu119> 5. Do not use sir and madam.
+<priyankasaggu119> 6. Do not use SMS language, write full English words
+<priyankasaggu119> Anyone wants to ask something till now. Type "!" to raise your hands.
+<priyankasaggu119> everyone please type "!" to see how it works.
+<Pawan__> !
+<pankajpoply45> !
+<jyoti_> !
+<priyankasaggu119> ohk.
+<priyankasaggu119> As gbot, asks you to ask your question, type "Yes" or if you have a question, ask your question.
+<priyankasaggu119> next
+<gbot> Pawan__, Ask your question. :pankajpoply45, you are next.
+<priyankasaggu119> next
+<gbot> pankajpoply45, Ask your question. :jyoti_, you are next.
+<Pawan__> Is this session going to be completely on this hex chat
+<priyankasaggu119> yes, Pawan__ .
+<Pawan__> i meant entirely by text???
+<jyoti_> ask your question.
+<pankajpoply45> Yes
+<priyankasaggu119> Yes. The entire session would be in text. If I would need to provide you with resources, I will send you links.
+<priyankasaggu119> Please ask only when gbot prompts you to ask. Don't ask anything in other's turn.
+* Guest57770 (~AMIT@14.139.236.44) has joined
+<priyankasaggu119> Fine. This gbot is making a queue of nick, whenever they type "!". And when the nick with admin access type "next", the nick are popped out of the queue in FIFO fashion.
+<priyankasaggu119> Now, tell me who in the channel hasn't registered their nicks yet?
+<Pawan__> Me
+<priyankasaggu119> Nishnt, pankajpoply45 Guest57770 ?
+* Nishnt has quit (Ping timeout: 256 seconds)
+* amit91111 (0e8bec2c@gateway/web/freenode/ip.14.139.236.44) has joined
+<priyankasaggu119> ohk no worries. After this session, jyoti_ can you please help Pawan__ to register his nick?
+* SamarKaushik (9d249466@gateway/web/freenode/ip.157.36.148.102) has joined
+<jyoti_> yes
+<priyankasaggu119> everyone, please read this link https://summertraining.readthedocs.io/en/latest/commguidelines.html
+<priyankasaggu119> and after you are done with it, say yes here.
+* Nishnt (6accc627@gateway/web/freenode/ip.106.204.198.39) has joined
+<priyankasaggu119> if anyone wants to ask any question, raise your hands by typing "!"
+<priyankasaggu119> SamarKaushik, you want to ask any question?
+* Guest57770 has quit (Ping timeout: 240 seconds)
+<priyankasaggu119> Done with reading the link's content? Say "yes" or "no"
+<Nishnt> !
+<priyankasaggu119> next
+<gbot> jyoti_, Ask your question. :Nishnt, you are next.
+<priyankasaggu119> next
+<gbot> Nishnt, Ask your question.
+<jyoti_> yes
+<Nishnt> I lost my connection not getting any links all chat is erased
+<priyankasaggu119> Nishnt, this is the link https://summertraining.readthedocs.io/en/latest/commguidelines.html
+<priyankasaggu119> everyone done with reading the communication guidelines, any doubts?
+<priyankasaggu119> Any questions?
+<amit91111> yes done
+<priyankasaggu119> Pawan__, SamarKaushik ?
+<priyankasaggu119> Ohk, I wanted all of you to have a brief about how the communication happens in here.
+<priyankasaggu119> if you all have time later in the day, please read https://dgplug.org/irclogs/mbuf_1stclass.log
+<amit91111> okk
+<priyankasaggu119> And those, who have some connection issues, I will save the logs of this session and upcoming sessions somewhere and will provide you the links.
+* SamarKaushik has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> Any doubts, or any question, till now. Because, now ownwards, I am starting with Git and GitHub introduction.
+<priyankasaggu119> Type "!" to ask your question.
+<amit91111> start please
+<priyankasaggu119> should I start, say "yes" or "no"
+<amit91111> yes
+<jyoti_> yes
+* pankajpoply45 has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> ohk.
+<priyankasaggu119> GitHub is a version Control System.
+* Nishnt has quit (Quit: Page closed)
+<priyankasaggu119> Understand Version Control by this example.
+* Nishnt (6accc627@gateway/web/freenode/ip.106.204.198.39) has joined
+<priyankasaggu119> We have a file of 100 lines. 
+* SamarKaushik (9d249466@gateway/web/freenode/ip.157.36.148.102) has joined
+<priyankasaggu119> I modified the 25th to 40th line.
+<priyankasaggu119> s/line/lines.
+<priyankasaggu119> Then I gave this file to another person, say A.
+<priyankasaggu119> He also modified some lines in the file, say "25-50"
+<priyankasaggu119> And he in turn gave that file to person C, who also made some changes.
+<priyankasaggu119> Anyone has doubts till now?
+<amit91111> no
+<jyoti_> no
+<Nishnt> No
+<priyankasaggu119> Ohk, I realized that I have made some wrong changes into the file, and I want to revert that back.
+<priyankasaggu119> But now, as Person A and Person C has also made their changes into the file.
+<priyankasaggu119> It would be extremely hard for me to change my file back to original, because then I want, first person C to revert his changes.
+<priyankasaggu119> Then Person A to revert his changes and after that only, I can make changes in my file to correct the mistakes.
+<priyankasaggu119> Fine so far, any doubts?
+<jyoti_> no
+<priyankasaggu119> others?
+<Nishnt> No
+<priyankasaggu119> feel free to ask, of you have doubts.
+<priyankasaggu119> ohk then.
+<priyankasaggu119> So, This kind of scenario happens when 100 or 200 or 500 people collectively works on a big project like Apple's Mac Operating System or Python Library or C libraries.
+<priyankasaggu119> If anyone out of 100 people makes any changes into the file without other people knowing it, then it would create big problems for these huge projects, and the project will go down in one day only.
+<priyankasaggu119> Here comes the role of Version Control System.
+<priyankasaggu119> So, Version Control System says
+<priyankasaggu119> Whenever you make a change in the file, mark it as version 1. 
+<priyankasaggu119> And put this file onto a place where rest 99 people can also see it.
+<priyankasaggu119> Then if anyone out of those 99 people want to make any changes, they will take that version 1 file, copy onto their system, and  make changes and mark it as Version 2.
+<priyankasaggu119> Any doubts so far?
+<amit91111> no
+* pankajpoply45 (6acc2881@gateway/web/freenode/ip.106.204.40.129) has joined
+<priyankasaggu119> say no, if you have no doubts.
+* pankajpoply45 has quit (Client Quit)
+<Nishnt> No
+<priyankasaggu119> jyoti_, ?
+<jyoti_> no
+<priyankasaggu119> Ohk, let's move forward.
+* SamarKaushik has quit (Ping timeout: 256 seconds)
+* pankajpoply45 (6acc2881@gateway/web/freenode/ip.106.204.40.129) has joined
+<priyankasaggu119> GitHub is that common place where everyone will put their files after making changes.
+<priyankasaggu119> And if someone else, say person B wants to make any change on the file placed in GitHub. He would be knowing that file has already been modified and I am making more changes on it.
+<priyankasaggu119> What a version means here, is say. 
+<priyankasaggu119> I had an empty file with name "test.txt"
+<priyankasaggu119> I have put two lines in it.
+<priyankasaggu119> 1. This is a file for testing purpose.
+<priyankasaggu119> 2. and I am making some changes into it.
+<priyankasaggu119> So, this test.txt with 2 lines in it is our version 1.
+<priyankasaggu119> If person B, adds or remove any line, he would mark it as version 2.
+<priyankasaggu119> and so on.
+<priyankasaggu119> Any doubts, so far?
+<jyoti_> no
+<priyankasaggu119> ohk
+<priyankasaggu119> The advantage of marking these versions is that, if I am at version 5 and I want to revert back to version 1, because I have realized that whatever changes which were made in version 1 were wrong, so the subsequent ones would be wrong in itself only.
+<priyankasaggu119> I can easily pick that file which was marked as version 1, and correct my changes. 
+<priyankasaggu119> This helps, when a team of people work on a same project and they want everyone to know what is happening in the main project file. And they want to keep a record of all the changes being made in that file
+<priyankasaggu119> So that if any change is required that can happen easily.
+<priyankasaggu119> Any doubts, so far?
+<amit91111> no
+<jyoti_> !
+<priyankasaggu119> others?
+<priyankasaggu119> next
+<gbot> jyoti_, Ask your question.
+<jyoti_> when we realised that mistake is make in version 1 and we make changes in that ,then is it required to make changes in other versions also??
+<priyankasaggu119> yes, jyoti. It may or may not be required.
+<priyankasaggu119> Understand it in the way
+<jyoti_> ok
+<priyankasaggu119> Like if I have a variable name "author" in version 1.
+<priyankasaggu119> The value of author == A in version 1.
+* Pawan__ has quit (Ping timeout: 256 seconds)
+* Nishnt has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> But later in the version 5, I realized that now the author the current version of the file has changed, And person A is no longer in our organization.
+<priyankasaggu119> So, I would wish to change that author name which won't affect any other subsequent versions. 
+<priyankasaggu119> So, I will change the author name and everything is fine.
+<priyankasaggu119> But say if in version 1, I have a function sum which adds 2 no , but later on in version 5, I realized that I wanted a function which subtracts 2 no.
+<priyankasaggu119> So, If I will go back to version 1 and change the definition of the func, then change is required to be made in the subsequent versions also.
+<priyankasaggu119> Got some idea jyoti_ ?
+<jyoti_> yes
+<priyankasaggu119> should we move on?
+<jyoti_> yes
+<priyankasaggu119> Ohk lastly, Git and GitHub are two different things.
+<priyankasaggu119> Git is an example of Version Control System. we have other examples too such as SVN(Subversion) etc
+<priyankasaggu119> Git is responsible for creating and maintaining the version.
+<priyankasaggu119> GitHub is a place where we can publicly show all these verisons to other people.
+<priyankasaggu119> Other examples of these places is BitBucket.
+<priyankasaggu119> Got it?
+<jyoti_> yes
+<priyankasaggu119> Ohk, let's move on the practical part.
+* Pawan__ (75e1bde3@gateway/web/freenode/ip.117.225.189.227) has joined
+<priyankasaggu119> Have you created your github account?
+<jyoti_> yes
+<priyankasaggu119> ohk, sign in into the account and say yes, when you are done.
+* amit91111 has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> pankajpoply45, you are active?
+<pankajpoply45> Yes
+<priyankasaggu119> you have some doubts, any suggestion or anything you want to say?
+<pankajpoply45> No
+<jyoti_> actually i forget my username and password of github
+<priyankasaggu119> You have got some idea about what is Git and GitHub. Or no idea at all.
+<priyankasaggu119> pankajpoply45, 
+<pankajpoply45> Get to know many things
+* Sourabh1031 (9d24a48f@gateway/web/freenode/ip.157.36.164.143) has joined
+<priyankasaggu119> ohk jyoti_, no worries. We are already at peek of our time. I wish to continue this lecture day after tommorow, 31st on the same time.
+<jyoti_> ok
+<pankajpoply45> @jyoti try to have same username at all places ,it helps others recognise you
+<priyankasaggu119> Any feedbacks so far. Type "!" and whenever your turn comes up, write whatever you feel.
+<jyoti_> ok@pankaj
+<priyankasaggu119> jyoti_, yes, you should have same username which you use at your prominant social platforms.
+<jyoti_> ok
+<priyankasaggu119> jyoti_, pankajpoply45, Pawan__ , please write your feedbacks.
+<jyoti_> !
+<Sourabh1031> Hello all i joined late hope all are having a nice time here
+<priyankasaggu119> next
+<gbot> jyoti_, Ask your question.
+<Pawan__> The session was great.Hope to have the same exp. next time
+<jyoti_> i feel good ,learn many new things
+<jyoti_> it is a very nice experience
+<priyankasaggu119> This was just an intro session, because I believed most of you are not settled yet in the channel. Take your time,
+<Sourabh1031> All of you start learning touch typing this will help to type fast
+<priyankasaggu119> help each other. Use this channel and get to know more about IRC.
+<priyankasaggu119> And homework for next time:
+<pankajpoply45> !
+<priyankasaggu119> 1. Set up your GitHub Account, so that we can directly jump into practical aspects.
+<priyankasaggu119> next
+<gbot> pankajpoply45, Ask your question.
+<pankajpoply45> What is touch-typing?
+<priyankasaggu119> Touch typing is typing without not looking at the keyboard.
+<priyankasaggu119> This means that you use proper fingers at proper keys on the keyboard
+<priyankasaggu119> That ultimately don't waste your time while looking and typing and also increase yiur speed.
+<priyankasaggu119> https://www.keybr.com/
+<Sourabh1031> https://www.typingclub.com
+<priyankasaggu119> It simply means memorizing all the keys on the keyboard and typing w/o looking at them.
+<priyankasaggu119> And secondly I will send some resources in the channel for you people to work on for tommorow. We will continue with our session on 31 Jan at same time.
+<priyankasaggu119> Any questions, so far?
+<pankajpoply45> No
+<priyankasaggu119> others?
+<jyoti_> no
+<priyankasaggu119> Hope the session was useful. We will work more hard the next time. Please don't forget to register your nicks here on irc.
+<priyankasaggu119> https://summertraining.readthedocs.io/en/latest/communication.html
+<priyankasaggu119> Should I end now?
+<jyoti_> yes
+<priyankasaggu119> #endclass
+<pankajpoply45> Yes
+<gbot> Class is ended.
+<priyankasaggu119> Feel free to talk anytime here.
+<Sourabh1031> There is an irc client named androirc for Android phone you can use that
+<priyankasaggu119> No, I truly want everyone of you to
+<priyankasaggu119> use your PC while having class.
+<Sourabh1031> Actually if you are travelling :P then..
+<priyankasaggu119> From next time, you will be typing commands and executing them meanwhile the session is going on.
+<priyankasaggu119> So, what's the use of class if you won't be practicing.
+<priyankasaggu119> Bye for now.
+* Sourabh1031 has quit ()
+<priyankasaggu119> Good night everyone.
+<priyankasaggu119> #quit gbot 
+<gbot> Bye!!
+* gbot has quit (Quit: gbot)
+<jyoti_> good night,bye
+<priyankasaggu119> And please be active on slack channels.
+* jyoti_ has quit (Quit: Page closed)
