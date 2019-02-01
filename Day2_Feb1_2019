@@ -1,0 +1,446 @@
+* Parveen (9d24a87d@gateway/web/freenode/ip.157.36.168.125) has joined
+<priyankasaggu119> Hi everyone. I am still waiting for people to come who have said yes for today's session.
+<Parveen> I am Parveen Duhan from CSE 2
+<Sourabh1031> Hello everyone welcome :)
+* pankajpoply45 (6accc8fe@gateway/web/freenode/ip.106.204.200.254) has joined
+<pankajpoply45> Hello Everyone!
+<priyankasaggu119> Hi, I am still waiting for people to come.
+<Sourabh1031> Lets start its already 10 min past 7
+* gbot (~gbot@157.36.172.116) has joined
+<Parveen> Hello everyone
+<priyankasaggu119> Just 5 more minutes. I will start then.
+<priyankasaggu119> Today's session is gonna be a crucial one, as we are gonna play with commands.
+<priyankasaggu119> So, tell me who in here have downloaded Git
+<priyankasaggu119> ?
+<Pawan1210> me
+<priyankasaggu119> others?
+<Parveen> Nope
+<priyankasaggu119> pankajpoply45, can you download it now?
+<Sourabh1031> Parveen do it now :) why to wait ?
+<priyankasaggu119> Otherwise no use of being in this session.
+<priyankasaggu119> Parveen, go and download it right now, please
+* pankajpoply45 has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> Use this link, https://git-scm.com/downloads
+<Sourabh1031> I think some people actually are going home as it is friday
+<Sourabh1031> Therefore absent
+<priyankasaggu119> Yes, Sourabh1031. But I am waiting for the ones, who have said yes only.
+<Parveen> Downloaded
+<Sourabh1031> Cool :)
+<priyankasaggu119> Ohk, fine.
+<Sourabh1031> Praveen in the meantime can you please introduce yourself
+<priyankasaggu119> I will start with 2 only.
+<priyankasaggu119> #startclass
+<gbot> Class Started. Raise your hands by typing "!" to ask your question.
+* pankajpoply45 (6acc7baa@gateway/web/freenode/ip.106.204.123.170) has joined
+* Nishnt (6acc8043@gateway/web/freenode/ip.106.204.128.67) has joined
+* Sourabh1031 has quit (Quit: Page closed)
+<priyankasaggu119> As Parveen, you are new to the channel. Just for brief introduction. We will be learning here. If you have to ask any question, or you have any doubt. Please type "!", and wait for your turn.
+<priyankasaggu119> fine Parveen?
+<Parveen> Ok
+<priyankasaggu119> Ohk everyone, please open your Terminals. In windows, Command Prompt.
+<priyankasaggu119> Say, yes when you are done.
+* Sourabh1031 (9d249f4a@gateway/web/freenode/ip.157.36.159.74) has joined
+<Nishnt> !
+<priyankasaggu119> next
+<gbot> Nishnt, Ask your question.
+<Nishnt> Sorry m late can u brief whts going on?
+<pankajpoply45> !
+* Vaibhav_ (0e8bec2c@gateway/web/freenode/ip.14.139.236.44) has joined
+<Sourabh1031> Nishnt we are starting today with git
+<priyankasaggu119> Nothing, Nishnt, we have just started with the session. Don't use message language. Just open up your command prompt.
+<priyankasaggu119> Now, no more disturbances while session is going on.
+<priyankasaggu119> next
+<gbot> pankajpoply45, Ask your question.
+<priyankasaggu119> Nishnt, pankajpoply45 are you done with downloading git on your systems?
+<pankajpoply45> just wait for two minutes . need to install git
+* Parveen has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> Vaibhav_, quickly go and download git from this link.https://git-scm.com/downloads
+<Sourabh1031> pankajpoply45 you told on slack that you have done that
+* Vaibhav__ (0e8bec2c@gateway/web/freenode/ip.14.139.236.44) has joined
+<Nishnt> Mam I am currently on my phone
+<pankajpoply45> no sir
+<priyankasaggu119> Nishnt, what should I do then. You people were specifically asked to use PC or Laptop while sessions
+<Sourabh1031> okay it can be my mistake
+<priyankasaggu119> Vaibhav__, have you seen my last message to you, here? 
+<pankajpoply45> I am done with installing git.
+<priyankasaggu119> I am very sorry to all the obedient ones on behalf of these lazy students who havn't done a small task. ;p
+<Nishnt> I am sorry mam.I am switching
+<priyankasaggu119> yes, Nishnt quickly do it.
+<Sourabh1031> Everyone listen carefully in the world of internet capital letter means shout . Therefore NO SIR NO MAM
+<priyankasaggu119> And No more mam or sir in the channel please.
+<pankajpoply45> what we have to open git cmd? or anything else?
+<priyankasaggu119> yes, if your understand what is Git bash. Open Git bash.
+<Sourabh1031> pankajpoply45 are you on windows ?
+<priyankasaggu119> Everyone, done with installing Git? say yes
+<Vaibhav__> No
+<priyankasaggu119> yes Sourabh1031, everyone is on windows right now.
+<priyankasaggu119> let it be.
+<pankajpoply45> yes i am on windows
+<priyankasaggu119> Vaibhav__, what are you waiting for. Please download
+<Vaibhav__> From where?
+<priyankasaggu119> Vaibhav_, quickly go and download git from this link.https://git-scm.com/downloads
+* Vaibhav_ has quit (Ping timeout: 256 seconds)
+<Sourabh1031> Actually the problem is in windows either we can install git on cmd or install it separately . What have you done pankajpoply45?
+<priyankasaggu119> Shall we start now?
+<priyankasaggu119> let it be Sourabh1031, they don't use terminal right now.
+<priyankasaggu119> SHALL WE START NOW?
+<priyankasaggu119> sorry for shouting, but nobody is replying me
+<priyankasaggu119> say yes, if you are done.
+<Pawan1210> yes
+<priyankasaggu119> others?
+<pankajpoply45> i have downloaded git from the link and got 3 apps one is .exe file, one is git bash file and git cmd(deprecated(
+<priyankasaggu119> Ohk, pankajpoply45. Good 
+<Sourabh1031> everyone write git -v on your cmd to test your installation
+<priyankasaggu119> everyone, please write -->  cd Desktop/
+<priyankasaggu119> Done
+<priyankasaggu119> Then write --> git --version
+<priyankasaggu119> anyone has doubts?
+<pankajpoply45> getting error! the system cannot find the path specified
+<Vaibhav__> Git is being downloaded
+<priyankasaggu119> ohk write --> pwd
+<Sourabh1031> pankajpoply45 open git bash
+<priyankasaggu119> I assume, everyone has opened Git bash now.
+<Sourabh1031> Search it is installed along with git
+<pankajpoply45> plz tell once again the only line we ned to enter in git bash no extra words.
+<priyankasaggu119> pwd
+<Sourabh1031> This is why I say windows is worst for a developer
+<pankajpoply45> done got "/c/Users/pankajpoply45"
+<priyankasaggu119> Sourabh1031, let it be, I said. We will ask them to configure Linux machine in our physical session.
+<priyankasaggu119> Now, Let me speak only here.\
+<priyankasaggu119> Everybody if they have to ask something. Please raise your hands first.
+<priyankasaggu119> Ohk, everyone is done with typing "pwd"?
+<priyankasaggu119> This will give you your current directory that means your current location in your system.
+<Pawan1210> yes
+* Vaibhav__ has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> as we got for pankajpoply45, he is in C drive-->Users-->pankajpopli45
+<priyankasaggu119> ohk. write ---> mkdir testFolder
+<priyankasaggu119> then --> cd testFolder/
+<priyankasaggu119> everyone done?
+<priyankasaggu119> say yes if you are done.
+* Nishnt has quit (Ping timeout: 256 seconds)
+<pankajpoply45> pankajpoply45@LAPTOP-89A37RLA MINGW64 ~ $ mkdir testFolder  pankajpoply45@LAPTOP-89A37RLA MINGW64 ~ $ cd testFolder/  pankajpoply45@LAPTOP-89A37RLA MINGW64 ~/testFolder $
+<pankajpoply45> getting this
+<priyankasaggu119> yes,
+<priyankasaggu119> you need not paste it. If you get any error. Then only raise your hands and ask.
+<priyankasaggu119> Ohk cd command means change directory,
+<priyankasaggu119> which in lame means, changing folder or moving to mentioned folder. 
+<priyankasaggu119> so, everyone if you are done with the above commands, you can again check your current location, by typing
+<priyankasaggu119> --> pwd
+<priyankasaggu119> should i move on?
+<pankajpoply45> yes
+<priyankasaggu119> Pawan1210, ?
+<priyankasaggu119> Now write --> git --version
+* Pawan1210 has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> if you got some no,
+<priyankasaggu119> then its fine.
+<pankajpoply45> its not a error but also not a number.
+<priyankasaggu119> paste it here
+<pankajpoply45> $ git -- version unknown option: -- usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]            <command> [<args>]
+* Pawan1210 (75e0a38d@gateway/web/freenode/ip.117.224.163.141) has joined
+<priyankasaggu119> type --> git -v
+<priyankasaggu119> It should give you something like --> git version 2.17.1
+* SamarKaushik (9d24f990@gateway/web/freenode/ip.157.36.249.144) has joined
+<pankajpoply45> not getting.  getting same thing
+<priyankasaggu119> type what you have written in here,
+<priyankasaggu119> paste it actually
+<pankajpoply45> git -v
+<priyankasaggu119> befor this
+<priyankasaggu119> git --version, should be the command for you
+<priyankasaggu119> copy and paste from here.
+<priyankasaggu119> git --version
+<pankajpoply45> got it. i was writing it as "git -- version" instead of "git --version"
+<priyankasaggu119> yeah
+<priyankasaggu119> got the version no now?
+<pankajpoply45> yup
+<Pawan1210> yes
+<priyankasaggu119> Pawan1210, ?
+<priyankasaggu119> ohk moving on
+<priyankasaggu119> now type,-->  git status
+<priyankasaggu119> and you should get and error
+<priyankasaggu119> please type the error here.
+<priyankasaggu119> an*
+<pankajpoply45> $ git status fatal: not a git repository (or any of the parent directories): .git
+* AndroUser (~androirc@2405:205:328e:bbcd:d83c:3a8f:3425:4f21) has joined
+<priyankasaggu119> This error states that, right now, you don't have any git repository in your current directory.
+<priyankasaggu119> So, we have to make one.
+<priyankasaggu119> Now, type --> git init
+<priyankasaggu119> This will initialize one git repository in your current directory.
+<priyankasaggu119> And you will get something like.
+<pankajpoply45> done
+<priyankasaggu119> On branch master
+<priyankasaggu119> No commits yet
+<priyankasaggu119> nothing to commit (create/copy files and use "git add" to track)
+<priyankasaggu119> everyone done? Any doubts till now?
+* SamarKaushik has quit (Quit: Page closed)
+<pankajpoply45> i am getting something like
+<pankajpoply45> $ git status On branch master  No commits yet  Untracked files:   (use "git add <file>..." to include in what will be committed)          git  nothing added to commit but untracked files present (use "git add" to track)
+<priyankasaggu119> Fine, no errors. The extra part is comimg because, you are doing it for the first time.
+<priyankasaggu119> Now, everyone please make a new text file in this directory by typing.
+<priyankasaggu119> touch test.txt
+<priyankasaggu119> Now, type--> echo "This is my first line">>test.txt
+<pankajpoply45> done
+<priyankasaggu119> So, touch command will make a new file in your directory.
+<priyankasaggu119> type --> cat test.txt
+<pankajpoply45> got the text in the file
+* priyankasaggu119 has kicked AndroUser from #GirlScriptSnp (AndroUser)
+* AndroUser (~androirc@2405:205:328e:bbcd:d83c:3a8f:3425:4f21) has joined
+<priyankasaggu119> ohk. pankajpoply45 can you please test one command for me.
+<priyankasaggu119> type--> nano test.txt
+<pankajpoply45> got a different screen
+<priyankasaggu119> yeah. Can you see the text "This is my first line"
+<priyankasaggu119> Pawan1210, things are working fine for you?
+<pankajpoply45> yes and it is like a text editor
+<priyankasaggu119> Yes, pankajpoply45, nano is the default text editor.
+* Pawan1210 has quit (Ping timeout: 256 seconds)
+<pankajpoply45> ohk
+<priyankasaggu119> you close it by typing, Ctrl-
+<priyankasaggu119> you close it by typing, Ctrl-X
+<pankajpoply45> I think everyone is getting problem by this channel
+<priyankasaggu119> what kind of problem, you think?
+<priyankasaggu119> Are you facing any problem pankajpoply45 ?
+<pankajpoply45> in the last session i was getting problem . today everything is ok
+<priyankasaggu119> pankajpoply45, that is happening because of change in your internet bandwidth.
+<priyankasaggu119> Or you people are not following my instructions to download an irc client like HexChat or XChat
+<priyankasaggu119> let it be. I will make the logs for this channel. Whosoever wants to see, will refer them
+<priyankasaggu119> Should we continue, pankajpoply45 ?
+* Pawan1210 (75e0a38d@gateway/web/freenode/ip.117.224.163.141) has joined
+<pankajpoply45> yes
+<priyankasaggu119> Pawan1210, where have you reached? Can you tell me?
+<priyankasaggu119> I mean upto which command?
+<priyankasaggu119> ohk pankajpoply45, now, have you closed the nano editor?
+<pankajpoply45> yes
+<priyankasaggu119> now type --> git status
+<priyankasaggu119> And you will see test.txt in the Untracked files.
+<priyankasaggu119> done?
+<pankajpoply45> yes
+<priyankasaggu119> https://pasteboard.co/HZ9Fqgk.png
+<priyankasaggu119> Open this link. It contains an image, which tells you how the structure or architecture of git works.
+<priyankasaggu119> Can you see it?
+<pankajpoply45> yes
+<priyankasaggu119> say yes, so that I can explain where we are right now.
+<priyankasaggu119> ohk, so right now, we are in the working directory.
+* Sourabh1031 has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> Now write --> git add test.txt
+<priyankasaggu119> then --> git status
+<pankajpoply45> $ git add test.txt warning: LF will be replaced by CRLF in test.txt. The file will have its original line endings in your working directory
+<pankajpoply45> now getting nothing in untracked files
+<priyankasaggu119> Oh, I see this is happening because you are in windows.
+<priyankasaggu119> This warning, I mean.
+<pankajpoply45> what does this line mean?
+<priyankasaggu119> So, refer to the same image again. Now we are in the staging area.
+* Pawan1210 has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> refer to this link, for your answer after the session pankajpoply45 https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
+<pankajpoply45> ohk
+<priyankasaggu119> Now, we should continue with git. I guess :)
+<priyankasaggu119> As i was telling you, when we use git add command, we pushed our file from working directory to staging area.
+* AndroUser has quit (Ping timeout: 250 seconds)
+<priyankasaggu119> It is still not into our local git repository yet which we initialized with "git init" command. 
+<priyankasaggu119> You have any doubts, till now pankajpoply45 ?
+<pankajpoply45> No
+<priyankasaggu119> ohk.
+<priyankasaggu119> type -->  git commit -m "This is my first commit"
+<priyankasaggu119> commit is what I was reffering to version last time. This commit actually makes the first version of our file.
+<pankajpoply45> pankajpoply45@LAPTOP-89A37RLA MINGW64 ~/testFolder (master) $ git commit -m "This is my first commit"  *** Please tell me who you are.  Run    git config --global user.email "you@example.com"   git config --global user.name "Your Name"  to set your account's default identity. Omit --global to set the identity only in this repository.  fatal: unable to auto-detect email address (got 'pankajpoply45@LAPTOP-89A37RLA.(none
+<priyankasaggu119> oh sorry sorry. I missed a crucial point.
+<pankajpoply45> i think i need to link git to github
+<priyankasaggu119> no
+<priyankasaggu119> type --> git config --global user.name "your name"
+<priyankasaggu119> and --> git config --global user.email "yourname@provider.com"
+<priyankasaggu119> This will set your global username and useremail with your owns.
+<priyankasaggu119> done?
+<pankajpoply45> yes
+<priyankasaggu119> to check, if they are set or not. type --> git config --list
+<pankajpoply45> on git commit i got  a new screen .
+<pankajpoply45> how to close
+<pankajpoply45> screen is displaying this
+<pankajpoply45>  Please enter the commit message for your changes. Lines starting # with '#' will be ignored, and an empty message aborts the commit. # # On branch master # # Initial commit # # Changes to be committed: #       new file:   test.txt # # Untracked files: #       git #
+<priyankasaggu119> take a screenshot and paste it here https://pasteboard.co/
+<pankajpoply45> how to take screenshot on laptop
+<priyankasaggu119> you have a print screen key at the top right corner of your keypad
+<priyankasaggu119> check its prt sc
+<priyankasaggu119> check its "prt sc"
+<priyankasaggu119> pankajpoply45, but anyways, you just have to type Ctrl-X to close that nano text-editor
+<priyankasaggu119> or try with Ctrl-Z
+<priyankasaggu119> happened?
+<pankajpoply45> it is Vim the most meme made thing :) and not closing through Ctrl X
+<priyankasaggu119> is it vim? sure? then type ":x!"
+<priyankasaggu119> happend?
+<priyankasaggu119> pankajpoply45?
+<pankajpoply45> yes closed it was vim :) so i learned how to close vim ... yeah :)
+<priyankasaggu119> yeah, soon you will learn how to use vim also.
+<pankajpoply45> ohk
+<priyankasaggu119> I am trying to help you people to learn these things only. But nobody cares, so let it be.
+<priyankasaggu119> Ohk should we move on.
+<priyankasaggu119> and vim is also a text editor.:)
+<pankajpoply45> i know about my class. so now not taking pain for them:)
+<priyankasaggu119> Let it be. 
+<priyankasaggu119> Ohk just tell me you have time na? because we have crossed our 1 hr mark for today. If you want to contine, I will contine.
+<priyankasaggu119> s/contine/continue
+<pankajpoply45> no problem . it is very interesting
+<priyankasaggu119> yeah, so we were at "git commit -m "This is my first commit""
+<pankajpoply45> getting many new things
+<priyankasaggu119> and you
+<priyankasaggu119> missed that -m "message" part, that's why you got that screen.
+<priyankasaggu119> That screen prompted to ask you
+<priyankasaggu119> with what message you want to save your commit with.
+<priyankasaggu119> Fine till now?
+<pankajpoply45> yes
+<priyankasaggu119> ohk, so you type --> git commit -m "This is my first commit"
+<pankajpoply45> done with that
+<priyankasaggu119> ohk.
+<priyankasaggu119> before, anything else. Tell me you were able to take a screenshot or not?
+<pankajpoply45> no
+<priyankasaggu119> you found that "prt sc" key?
+<pankajpoply45> yesb but on pressing it is opening onedrive
+<priyankasaggu119> then, try pressing it with "fn" key
+<priyankasaggu119> And check screenshot folder in your laptop.
+* Sourabh1031 (9d249f4a@gateway/web/freenode/ip.157.36.159.74) has joined
+<priyankasaggu119> you got something?
+<pankajpoply45> no it is empty
+<priyankasaggu119> even with "fn-prt sc"?
+<priyankasaggu119> Sourabh1031, can you tell pankajpoply45 how to take screenshot, he might have a keypad like yours.
+<priyankasaggu119> ohk, pankajpoply45, that is a talk of another time. Let's continue. :)
+<priyankasaggu119> So, as you commited your file, it went from "staging area" to "local repository"
+<priyankasaggu119> see the diagram
+<priyankasaggu119> pankajpoply45, there?
+* Hackerandome (2a6dc5e7@gateway/web/freenode/ip.42.109.197.231) has joined
+<Sourabh1031> priyankasaggu119: sorry i didn't get
+<Sourabh1031> pankajpoply45: where are you stuck ?
+<priyankasaggu119> Sourabh1031, ohk, we are not stuck anywhere. It was just a lazy experiment, we will see that in slack channel.
+* pankajpoply45_ (6acc7baa@gateway/web/freenode/ip.106.204.123.170) has joined
+<Hackerandome> Hello myself Dheeraj ,2nd yr CSE.
+<priyankasaggu119> pankajpoply45, ?
+* pankajpoply45 has quit (Ping timeout: 256 seconds)
+<pankajpoply45_> it is leaving the channel by itself
+<pankajpoply45_> i think others are also facing same problem
+<Sourabh1031> pankajpoply45_: then there is problem in channel priyankasaggu119
+<priyankasaggu119> No, I talked to Pawan, he has some other issues.
+<Sourabh1031> check the config
+<priyankasaggu119> no Sourabh1031, no issues in the channel. 
+<pankajpoply45_> what is done in last 5-7 minutes after git commit
+<Sourabh1031> priyankasaggu119: okay
+<priyankasaggu119> pankajpoply45_, that is happening because they havn't registered their nicks yet.
+<pankajpoply45_> would do it soon :)
+<priyankasaggu119> And the channels config will close their connection, if the unregistered ones will connect for this long.
+<pankajpoply45_> oh!!
+<Sourabh1031> priyankasaggu119: ah right
+<priyankasaggu119> Nothing happend in past these minutes.
+<priyankasaggu119> Hackerandome, welcome to the channel. We will talk to you after session
+<priyankasaggu119> So, should we continue pankajpoply45_ ?
+<pankajpoply45_> yes
+<pankajpoply45_> as your wish . i am having nothing to do
+* Hackerandome has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> type --> "git log" to see all the commits that you have done yet. You will see only one, because you have only one
+<pankajpoply45_> yes
+<priyankasaggu119> I will take it for 10 more min. Then we will carry on it tommorow, with others.
+<priyankasaggu119> Ohk, pankajpoply45_ --> type vim test.txt
+<priyankasaggu119> let's teach you how to use vim.
+<priyankasaggu119> :)
+<pankajpoply45_> tommorrow i will not be able to join . having clas
+<pankajpoply45_> s
+<priyankasaggu119> we will see that afterwards in channel, you type --> vim test.txt
+<pankajpoply45_> pankajpoply45@LAPTOP-89A37RLA MINGW64 ~/testFolder (master) $ type vim test.txt vim is /usr/bin/vim bash: type: test.txt: not found
+<priyankasaggu119> vi test.txt
+<priyankasaggu119> try this
+<pankajpoply45_> got vim opened
+<priyankasaggu119> pankajpoply45_, that time also you wrote "type vim test.txt" instead of "vim test.txt"
+<priyankasaggu119> Now press "i" to move into insert mode.
+<priyankasaggu119> and add a new line.
+<priyankasaggu119> whatever you wish like "this is new line"
+<pankajpoply45_> done
+<priyankasaggu119> now press "ESC"
+<pankajpoply45_> done
+<priyankasaggu119> and type --> ":x!"
+<pankajpoply45_> now nothing is get typed
+<priyankasaggu119> yeah, but see at the lower left corner.
+<pankajpoply45_> done
+<priyankasaggu119> you will see the commands being written
+<priyankasaggu119> :x! will save the contents of your file and exit vim
+<pankajpoply45_> ohk
+<priyankasaggu119> open vim again by typing "vim test.txt"
+<pankajpoply45_> opened test.txt
+<priyankasaggu119> enter "i"
+<priyankasaggu119> and write another line
+<pankajpoply45_> done
+<priyankasaggu119> press "ESC"
+<pankajpoply45_> done
+<priyankasaggu119> and type ":w" this will save the file only.
+<pankajpoply45_> ohk
+<priyankasaggu119> you will see something like ""test.txt" 4L, 57C written  " at the lower left corner
+<priyankasaggu119> which says 4lines written
+<pankajpoply45_> :x will do both save and exit vim
+<priyankasaggu119> :x! not :x
+<pankajpoply45_> yes
+<priyankasaggu119> and ":wq" also
+<pankajpoply45_> ohk
+<priyankasaggu119> try ":wq" this time to close vim
+<pankajpoply45_> done
+<pankajpoply45_> will it save also
+<pankajpoply45_> as :x!
+<priyankasaggu119> yes "w" is for save/write and q is for quit
+<pankajpoply45_> ohk
+<priyankasaggu119> now, you type --> "git status"
+<priyankasaggu119> and you will see this file as modified
+<priyankasaggu119> and also not staged
+<pankajpoply45_> yes
+<priyankasaggu119> This means previous version, which we have commited is there as commit 1 and now we have made changes into our original file, so we have to again commit this and put it into our local repo as commit 2
+<priyankasaggu119> understood? or have doubts?
+<pankajpoply45_> understood
+<priyankasaggu119> ohk. So, again type --> git add . 
+<priyankasaggu119> I have written "." in place of test.txt
+<priyankasaggu119> this time. This dot just signifies that I am trying to add all the files into my staging area. Since we have only 1, so, don;t make any difference
+<priyankasaggu119> got it?
+<pankajpoply45_> yes after this i have also committed and checked status
+<priyankasaggu119> and now type --> git log
+<priyankasaggu119> to see if you have another commit in the row.
+<pankajpoply45_> only showing one commit
+<priyankasaggu119> That means you havn't made another commit
+<priyankasaggu119> type again. --> git commit -m "This is commit 2"
+<pankajpoply45_> $ git commit -m "This is my second commit" [master 62cec59] This is my second commit  1 file changed, 2 insertions(+)
+<pankajpoply45_> i had done that
+<priyankasaggu119> That should have happend then.
+<pankajpoply45_> let me try again
+<priyankasaggu119> hey,
+<priyankasaggu119> type "git log" and I will tell you how to read it
+<priyankasaggu119> you are not able to differentiate the two commits i guess.
+<pankajpoply45_> ohk
+<priyankasaggu119> you wrote "git log"?
+<pankajpoply45_> yes
+<priyankasaggu119> https://pasteboard.co/HZa7rF8.png
+<priyankasaggu119> see the screenshot
+<priyankasaggu119> And check what I got as my last result.
+<priyankasaggu119> you can see that?
+<priyankasaggu119> you have something like that?
+<pankajpoply45_> yes
+<priyankasaggu119> ohk, you can see two different commit hash?
+<priyankasaggu119> like in mine?
+<priyankasaggu119> I have two like "commit 3db8b5d3f70999bdec5a106bb5aa295a58b07394 (HEAD -> master)
+<priyankasaggu119> "
+<priyankasaggu119> commit 9b7210763c92df8b90a6147f44c40a08ca785c77
+<priyankasaggu119> each one of them is for different commits.
+<pankajpoply45_> yes it is showing two
+<pankajpoply45_> but message for one
+<priyankasaggu119> and you can see "the two different messages also"
+<priyankasaggu119> because you remember,
+<priyankasaggu119> you havn't given any message for you first commit.
+<priyankasaggu119> you lasted in opening vim only :p
+<pankajpoply45_> but the seond message i gave was "This is my second commit"
+<priyankasaggu119> and what you are getting?
+<pankajpoply45_> this is my first commit.... i had given the commit message after cosing vim
+<priyankasaggu119> Ah, I wish to see the screenshot. But you can't take one. Ohk just take a picture in your phone and send me on slack.
+<priyankasaggu119> I am ending the session for today
+<priyankasaggu119> with last note
+<priyankasaggu119> that we are done till local repo.
+<priyankasaggu119> In next session, we will push it to github that is from local repo to remote repo
+<pankajpoply45_> got it . it is there . i was trying to see second commit message after first commit ..but it is before first commit
+<priyankasaggu119> Homework:- You have to make your GitHub account.
+<priyankasaggu119> And be on time in next class
+<pankajpoply45_> have already
+<priyankasaggu119> and revise all what we have done so far today.
+<priyankasaggu119> that's all for now.
+<pankajpoply45_> when is the next class?
+<priyankasaggu119> will tell you in slack.
+<priyankasaggu119> #endclass
+<gbot> Class is ended.
+<pankajpoply45_> ohk.
+<pankajpoply45_> todays session was very much intersting.
