@@ -1,0 +1,714 @@
+<priyankasaggu119> everyone, I will be back in 2 minutes,
+<priyankasaggu119> Be ready.
+<priyankasaggu119>  jyoti 
+* Nishnt_ (6accd47d@gateway/web/freenode/ip.106.204.212.125) has joined
+<jyoti> yes
+<priyankasaggu119> after this session, tomorrow, if you have time, please help nidhi with whatever we will be doing here today.
+<deepti> ok mam
+<jyoti> ok @priyankasaggu
+* HP (~HP@157.36.179.206) has joined
+<priyankasaggu119> Hey, if the name is so long to type, just write the initial letters and press tab key, it will autocomplete itself.
+* pankajpoply45 (6accce30@gateway/web/freenode/ip.106.204.206.48) has joined
+<priyankasaggu119> Hello everyone.
+* pankajpoply45 has quit (Client Quit)
+<priyankasaggu119> Now, I am gonna start with the session.
+<jyoti> ok
+<Nishnt_> Ok
+<priyankasaggu119> While the session, nobody should interrupt unless I ask you to answer.
+* pankajpoply45 (6accce30@gateway/web/freenode/ip.106.204.206.48) has joined
+<VAIBHAV_> ok
+* Devansh_ (~Devansh@2405:205:3204:bfca:e85d:73ff:d226:6431) has joined
+<jyoti> ok
+<priyankasaggu119> If you have to ask anything, please type "!" and wait for your turn to come
+<priyankasaggu119> gbot, which is our IRC bot, will call you whenever your turn comes up.
+<priyankasaggu119> Fine?
+<priyankasaggu119> should we start?
+<jyoti> yes
+<VAIBHAV_> yes
+<priyankasaggu119> ohk.
+<Nishnt_> Yes
+<Devansh_> yes
+<priyankasaggu119> #startclass
+<gbot> Class Started. Raise your hands by typing "!" to ask your question.
+<deepti> !
+<priyankasaggu119> i am asking for a roll call, whosoever is here. Please write your full names.
+<priyankasaggu119> roll call
+* Sourabh1031 (9d24df1a@gateway/web/freenode/ip.157.36.223.26) has joined
+<VAIBHAV_> vaibhav kaul
+<jyoti> jyoti
+<Devansh_> Devansh Goyal
+<deepti> deepti
+<pankajpoply45> Pankaj Poply
+<Nishnt_> Nishant
+<priyankasaggu119> ohk.
+<priyankasaggu119> next
+* HP has quit (Quit: Leaving)
+<gbot> deepti, Ask your question.
+<Sourabh1031> Hello everyone
+<Sourabh1031> Sourabh Pruthi
+<deepti> mine password is getting wrong
+<priyankasaggu119> which password is getting wrong?
+<Sourabh1031> deepti: nickserv ?
+<priyankasaggu119> deepti, it's an off topic thing for now. Let's discuss it after the session ohk.
+<priyankasaggu119> everyone, are you all done with git installation, type "yes" or "no"
+<deepti>  after indentifying my nick name
+<jyoti> yes
+<VAIBHAV_> yes
+<Devansh_> yes
+* HP (~HP@157.36.179.206) has joined
+<deepti> ok
+<deepti> yes
+<priyankasaggu119> Nishnt_, >
+<priyankasaggu119> ?
+<Nishnt_> Yes
+<priyankasaggu119> ohk, so, everyone please open your "git bash"
+<priyankasaggu119> and type --> pwd
+<priyankasaggu119> done?
+<VAIBHAV_> done
+<Devansh_> done
+<priyankasaggu119> paste your results here.
+<deepti> done
+<HP> which
+<deepti> dell@dell-PC MINGW64 ~
+<deepti> $ pwd
+<deepti> dell@dell-PC MINGW64 ~
+<deepti> $
+* samarkaushik (~samarkaus@157.36.213.47) has joined
+<Sourabh1031> you can use pastebin in case you are facing with  errors just copy and paste https://pastebin.com/
+<priyankasaggu119> mine looks like this --> /home/priyankasaggu119/Desktop/temp
+<Sourabh1031> priyankasaggu119: they will get confused with dir structure because of different os
+<priyankasaggu119> type "!" if you are facing any problem.
+<priyankasaggu119> No Sourabh1031, let me help them.
+<deepti> !
+<VAIBHAV_> !
+<priyankasaggu119> next
+<Devansh_> !
+<gbot> deepti, Ask your question. :VAIBHAV_, you are next.
+<deepti> mine result is not like yous@priyankasaggu
+<VAIBHAV_> no as such result is being displayed
+<priyankasaggu119> deepti, but have you got something?
+* Devansh_ has quit (Quit: Leaving)
+<priyankasaggu119> VAIBHAV_, it's not your turn.
+<priyankasaggu119> say yes or no, deepti 
+<deepti> i had pasted which result i have gotten@priyankasaggu
+<Sourabh1031> deepti: paste whatever result you obtained in the output of command
+<priyankasaggu119> ohk. everyone.
+* Nishnt__ (~Nishnt@106.204.82.173) has joined
+* Devanshgl55 (~Devansh@2405:205:3204:bfca:e85d:73ff:d226:6431) has joined
+<jyoti>  /c/Users/jyoti
+* samarkaushik007 (~samarkaus@157.36.213.47) has joined
+<jyoti> !
+<Devanshgl55>  /c/Users/Devansh
+<priyankasaggu119> it should be like what jyoti got.
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question. :Devansh_, you are next.
+<Sourabh1031> jyoti Devanshgl55 fine
+* Nishnt_ has quit (Quit: Page closed)
+<priyankasaggu119> VAIBHAV_, have any doubt?
+<VAIBHAV_> i have typed pwd but still nothing is happening @priyankasaggu119
+<priyankasaggu119> can you take a screenshot, VAIBHAV_ ?
+<VAIBHAV_> yes
+<priyankasaggu119> if yes, paste it here.https://pasteboard.co/
+<priyankasaggu119> and send the link here.
+<priyankasaggu119> next
+<gbot> Devansh_, Ask your question. :jyoti, you are next.
+<deepti> !
+<Devanshgl55> my problem is resolved
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question. :deepti, you are next.
+<jyoti> my problem is also resolved
+<priyankasaggu119> next
+<gbot> deepti, Ask your question.
+* samarkaushik has quit (Ping timeout: 240 seconds)
+* samarkaushik (samarkaush@2405:205:3396:267d:ddc8:e800:29b8:f8b8) has joined
+<deepti> dell is written insead of my nick manr
+<deepti> name
+* samarkaushik007 has quit (Ping timeout: 240 seconds)
+<priyankasaggu119> Sourabh1031, can you help students in slack, who are having issues with joining the channel
+<priyankasaggu119> deepti, because, your PC's name is dell
+<Sourabh1031> wait a bit
+<pankajpoply45> It is not displaying nick but your current laptop directory.
+<deepti> ok
+<Sourabh1031> sorry priyankasaggu119 :(
+<Nishnt__> !
+<priyankasaggu119> VAIBHAV_, are you done with screenshot?
+<priyankasaggu119> next
+<gbot> Nishnt__, Ask your question.
+<VAIBHAV_> https://pasteboard.co/HZjswUL.png
+<VAIBHAV_> here is it @priyankasaggu119
+<priyankasaggu119> VAIBHAV_, you got your directory
+<priyankasaggu119> see you just have a slash that means you have downloaded git in your root directory.
+<Nishnt__> i have got the result but how to paste it here
+* samarkaushik007 (~samarkaus@42.111.13.106) has joined
+<priyankasaggu119> Nishnt__, just select that with your mouse and right click, and press copy
+<priyankasaggu119> and paste here.
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> should we move on now?
+<jyoti> yes
+<Devanshgl55> yes
+<priyankasaggu119> samarkaushik, ?
+<priyankasaggu119> can you see this message?
+<samarkaushik007> yes
+<priyankasaggu119> ohk voila, there you are. carry on.
+* samarkaushik has quit (Ping timeout: 240 seconds)
+<VAIBHAV_> !
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question.
+<HP> !
+<deepti> !
+<VAIBHAV_> is it correct @priyankasaggu119
+<priyankasaggu119> yes VAIBHAV_ 
+<priyankasaggu119> next
+<gbot> HP, Ask your question. :deepti, you are next.
+<priyankasaggu119> HP, what's your name?
+<HP> Akhilesh bhoria
+<priyankasaggu119> ohk, ask your queston
+<priyankasaggu119> s/queston/question
+<priyankasaggu119> next
+<gbot> deepti, Ask your question.
+<deepti> mine result is displaying ? because after pasting i am not getting
+<priyankasaggu119> what you are getting after pasting where deepti?
+<Devanshgl55> start with a space
+<HP> mam my output is same as VAIBHAV ...it is correct or not
+<priyankasaggu119> HP, it's fine.
+<Nishnt__>  /c/Users/Nishant
+<priyankasaggu119> fine Nishnt__ 
+<deepti>  /c/Users/dell
+<HP> fine @priyankasaggu119
+<priyankasaggu119> fine deepti, it's right
+<priyankasaggu119> now, no more questions for now. Let me start.
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> ohk
+<priyankasaggu119> what you have got as  the result of command "pwd" is your current directory.
+<Sourabh1031> HP: please choose a genuine nick name
+<priyankasaggu119> for eg:-
+<priyankasaggu119> for Nishnt__, it is /C/Users/Nishant 
+<priyankasaggu119> that means root-->C drive--> Users--> Nishant
+<priyankasaggu119> one who have got only "/" it means they are in the root directory.
+<priyankasaggu119> everyone fine till now?
+<VAIBHAV_> yess
+<jyoti> yes
+<Nishnt__> yes
+<priyankasaggu119> samarkaushik007, are you done till now?
+<samarkaushik007> yes
+<priyankasaggu119> ohk
+<Devanshgl55> yes
+<deepti> yes
+<priyankasaggu119> now everyone, please type --> "mkdir temp"
+<jyoti> !
+<priyankasaggu119> it won't give you any result and no error too.
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question.
+<VAIBHAV_> !
+<deepti> !
+<jyoti> we have to type this in git?
+<priyankasaggu119> yes jyoti, you have to type it in git bash.
+<HP> mkdir temp
+<jyoti> ok done
+<priyankasaggu119> HP, should I kick you out. It's not your turn.
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question. :deepti, you are next.
+<VAIBHAV_> https://pasteboard.co/HZjxtSf.png
+<VAIBHAV_> i am getting this @priyankasaggu119
+<priyankasaggu119> VAIBHAV_, you type --> cd C/
+<priyankasaggu119> VAIBHAV_, you type --> cd c/
+<priyankasaggu119> sorry lowercase c
+<VAIBHAV_> i am getting file already exit @priyankasaggu119
+<VAIBHAV_> exists*
+<priyankasaggu119> VAIBHAV_, you type --> sudo mkdir new/
+<Sourabh1031> priyankasaggu119: no sudo in windows
+<priyankasaggu119> oh yes Sourabh1031 
+<priyankasaggu119> wait then
+<Sourabh1031> :D
+<priyankasaggu119> VAIBHAV_, can you do one thing.
+<Sourabh1031> VAIBHAV_: i think it is exist not exit
+<priyankasaggu119> Please close your git bash
+<priyankasaggu119> and go to c drive and right click there and open git bash there
+<priyankasaggu119> and give me a screenshot
+<priyankasaggu119> next
+<gbot> deepti, Ask your question.
+<HP> !
+<deepti> mine is same ...file exists
+<priyankasaggu119> everyone
+* Sourabh1031 has quit ()
+<priyankasaggu119> please type --> "mkdir newfolder/"
+* Sourabh1031 (9d24df1a@gateway/web/freenode/ip.157.36.223.26) has joined
+<priyankasaggu119> It is happening because you people already have a temp folder.
+<pankajpoply45> !
+<priyankasaggu119> next
+<gbot> HP, Ask your question. :pankajpoply45, you are next.
+<deepti> !
+<priyankasaggu119> VAIBHAV_, you also try with the above command.
+<HP> !
+<priyankasaggu119> next
+<gbot> pankajpoply45, Ask your question. :deepti, you are next.
+<pankajpoply45> We are not giving extension eg .txt than what type of file would be created?
+<priyankasaggu119> pankajpoply45, we are trying to create a directory/folder, not a file.
+<priyankasaggu119> next
+<gbot> deepti, Ask your question. :HP, you are next.
+<deepti> with above command also my result is file exists
+<VAIBHAV_> https://pasteboard.co/HZjBwXEO.png
+<priyankasaggu119> deepti, paste here what you have written
+<VAIBHAV_> here it is @priyankasaggu119
+<priyankasaggu119> you are done VAIBHAV_ kudos :)
+<deepti> $ mkdir newfolder/
+<deepti> mkdir: cannot create directory ‘newfolder/’: File exists
+<Nishnt__> !
+<priyankasaggu119> deepti, you type --> mkdir new/
+<Sourabh1031> deepti remove /
+<deepti> !
+<priyankasaggu119> ohk, yes remove slash
+<priyankasaggu119> next
+<gbot> HP, Ask your question. :Nishnt__, you are next.
+<priyankasaggu119> HP, do you have any question?
+<priyankasaggu119> next
+<gbot> Nishnt__, Ask your question. :deepti, you are next.
+<Nishnt__> i am having same problem as @deepti without slash also
+<priyankasaggu119> Nishnt__, show us what you wrote
+<Nishnt__> it says--->r: cannot create directory �newfolder�: File exists
+<HP> yes@priyankasaggu199
+<priyankasaggu119> paste what command you have written
+<priyankasaggu119> Nishnt__
+<Nishnt__> $ mkdir newfolder
+<priyankasaggu119> you type --> "ls"
+<Nishnt__> no
+<priyankasaggu119> and see if there comes any folder "newfolder"
+<HP>  mkdir newfolder it is showing nothing @priyankasaggu119
+<priyankasaggu119> HP, first of all, stop asking in other's turn, and your answer is fine.
+<priyankasaggu119> next time, you ask in other people's turn, I will kick you out. HP 
+<gbot> deepti, Ask your question.
+<Nishnt__> no its saying command not found
+<Nishnt__> after typing 1s
+<priyankasaggu119> Sourabh1031, windows don't have "ls" also?
+<deepti> same problem as with nishant after removing the slash also
+<Sourabh1031> Yes
+<priyankasaggu119> take a screenshot, and paste in pastebin
+<priyankasaggu119> and give us here.
+<Sourabh1031> Windows doesn't have anything
+<Sourabh1031> :D
+<Devanshgl55> g
+<Sourabh1031> I think Priyanka we require hands on session due to different architecture problem
+<deepti> $ $ mkdir newfolder
+<deepti> bash: $: command not found
+<priyankasaggu119> deepti
+<deepti> yes
+<priyankasaggu119> why are you having 2 $ in starting, it's by mistake or you are typing it
+<priyankasaggu119> because you have to type--> "mkdir newfolder" not "$ mkdir newfolder"
+<deepti> $ mkdir newfolder
+<deepti> mkdir: cannot create directory ‘newfolder’: File exists
+<Devanshgl55> !
+<priyankasaggu119> deepti, hope your problem is solved now?
+<priyankasaggu119> are
+<priyankasaggu119> deepti, 
+<priyankasaggu119> try --> mkdir new
+<deepti> the result is file exists
+<priyankasaggu119> wait
+<Sourabh1031> Sorry guys I can comment anything because i have never used git bash on windows
+<Sourabh1031> I had installed git on command line in windows in my second year
+<priyankasaggu119> whosoever is facing problem
+<Sourabh1031> I think to follow up you need to install git again on your cmd rather than separately
+<deepti> !
+<priyankasaggu119> type --> mkdir -p -- new
+<priyankasaggu119> next
+<Sourabh1031> Priyanka this will also not work because their cmd does not contain bash installed
+<pankajpoply45> Nishant was typing 1s instead of ls
+<priyankasaggu119> so, pankajpoply45 it must be working na
+<Sourabh1031> Nishnt__ its l = lion not 1
+<pankajpoply45> Cannot do right now.
+<Devanshgl55> for windows type dir instead of ls
+<priyankasaggu119> deepti, what you got?
+<priyankasaggu119> this time?
+<Sourabh1031> Devanshg155 right
+<Nishnt__> https://pasteboard.co/HZjIpaY.png
+<priyankasaggu119> Nishnt__, you are typing 1s
+<priyankasaggu119> try with "ls" once
+<priyankasaggu119> deepti, ?
+<samarkaushik007> i don't know know if mine is correct ; what result should i expect??
+<priyankasaggu119> you should no result and no error samarkaushik007 
+<priyankasaggu119> get*
+<Devanshgl55> Nishant__ you have run command of mkdir newfolder many times it worked on first time and shows message next time
+<priyankasaggu119> hey Devanshgl55 right you are
+<priyankasaggu119> everyone please
+<Nishnt__> yes first time it shows nothing
+* dell (~dell@157.36.141.103) has joined
+<priyankasaggu119> type --> cd newfolder/
+<Nishnt__> and after typing ls  its showing some location
+<priyankasaggu119> Thank you Devanshgl55 :)
+<Devanshgl55> after opening the current directory a folder will be there of that name
+<priyankasaggu119> Nishnt__, that means ls works in windows and you have nothing in that directory.
+<Nishnt__> ok thats fine
+<priyankasaggu119> Nishnt__, but you should have one folder with name "newfolder"
+<Devanshgl55> !
+<gbot> Devanshgl55, Please wait for your turn. You are already in the queue.
+* deepti has quit (Ping timeout: 268 seconds)
+<dell> !
+<priyankasaggu119> next
+<gbot> Devanshgl55, Ask your question. :Sourabh1031, you are next.
+<Devanshgl55> does commands for gitbash and linux cmd same
+<priyankasaggu119> not all Devanshgl55 
+* dell is now known as deepti
+<Devanshgl55> ok
+<priyankasaggu119> next
+<gbot> Sourabh1031, Ask your question. :dell, you are next.
+<priyankasaggu119> next
+<gbot> dell, Ask your question.
+<deepti> what is the actual result
+<priyankasaggu119> there should be no result, no error
+<deepti> ??
+<priyankasaggu119> Nishnt__, yours worked na
+<priyankasaggu119> deepti, please type --> "ls"
+<Nishnt__> yes
+<deepti> where
+<priyankasaggu119> in git bash
+<priyankasaggu119> deepti, take a screenshot of your screen and paste it in https://pasteboard.co/
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<deepti> only this ls
+<priyankasaggu119> yes
+<deepti> dell@dell-PC MINGW64 ~
+<deepti> $ ls
+<deepti>  AppData/                'My Documents'@                                                                                 p/
+<deepti> 'Application Data'@       NetHood@                                                                                       Pictures/
+<deepti>  Contacts/                new/                                                                                           PrintHood@
+<deepti>  Cookies@                'New folder'/                                                                                   Recent@
+<deepti>  Desktop/                 newfolder/                                                                                    'Saved Games'/
+<deepti>  Documents/               NTUSER.DAT                                                                                     Searches/
+<deepti>  Downloads/               ntuser.dat.LOG1                                                                                SendTo@
+<deepti>  Favorites/               ntuser.dat.LOG2                                                                               'Start Menu'@
+<deepti>  IntelGraphicsProfiles/   NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf                                        temp/
+<deepti>  Links/                   NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms   Templates@
+<deepti> 'Local Settings'@         NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms   Videos/
+<deepti>  Music/                   ntuser.ini
+<priyankasaggu119> OMG, who asked you to paste it here.
+<Sourabh1031> deepti what you did ?
+* Nishnt_ (6accd47d@gateway/web/freenode/ip.106.204.212.125) has joined
+<Sourabh1031> Flooded
+<Nishnt__> i also got the same result
+<Sourabh1031> Everyone never do this again
+<priyankasaggu119> deepti, last try
+<Sourabh1031> What you are asked follow that carefully
+<priyankasaggu119> type --> mkdir folder
+* Nishnt__ has quit (Quit: Leaving)
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> Everyone else, let's move forward.
+<priyankasaggu119> type--> cd newfolder/
+<priyankasaggu119> deepti
+<priyankasaggu119> listen to me
+<priyankasaggu119> You have a newfolder folder already in your directory. I can see that from your ls result.
+<priyankasaggu119>  Recent@
+<priyankasaggu119> <deepti>  Desktop/                 newfolder/   
+<priyankasaggu119> now, everyone, please tell me
+<priyankasaggu119> should we move forward, say "yes" or "no"
+<jyoti> yes
+* deepti has quit (Ping timeout: 272 seconds)
+<priyankasaggu119> others?
+<VAIBHAV_> yes
+<samarkaushik007> !
+<HP> yes
+<priyankasaggu119> Devanshgl55, ?
+<priyankasaggu119> next
+<gbot> samarkaushik007, Ask your question.
+<Devanshgl55> yes
+<samarkaushik007> i don't get it , what was  this all about
+<priyankasaggu119> ohk, this is what I am trying to tell you now.
+<priyankasaggu119> So, moving forward.
+<priyankasaggu119> mkdir command means make directory. Which means make new folder in windows.
+<priyankasaggu119> so, with --> mkdir newfolder, we tried to make a new folder with name "newfolder"
+<priyankasaggu119> and with command --> "cd newfolder/", we tried to change directory to newfolder i.e moving inside newfolder
+<priyankasaggu119> fine till now?
+<Devanshgl55> yes
+<jyoti> yes
+<samarkaushik007> yes
+<priyankasaggu119> VAIBHAV_, ?
+<priyankasaggu119> HP, ?
+<VAIBHAV_> yes
+<priyankasaggu119> moving forward
+<HP> yes
+* deepti (~deepti@157.36.141.103) has joined
+* Nishnt_ has quit (Ping timeout: 256 seconds)
+<priyankasaggu119> everyone please type--> "git status"
+<Devanshgl55> !
+<priyankasaggu119> and you should get an error
+<priyankasaggu119> next
+<gbot> Devanshgl55, Ask your question.
+<Devanshgl55> can we only move to a dir only inside current dir using cd
+<priyankasaggu119> ask clearly, I didn't get you
+<VAIBHAV_> !
+<Devanshgl55> you said to type cd temp and i am temp folder but i tried cd c it shows no such file or dir
+<priyankasaggu119> that means, in your current directory, you don't have any folder names "c"
+<Devanshgl55> ok
+<priyankasaggu119> yes with cd, you can only move into a directory which is inside the current directory.
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question.
+<VAIBHAV_> we have to type git status only when we are in the new folder that we just created? @priyankasaggu119
+<priyankasaggu119> yes
+<HP> !
+<jyoti> !
+<priyankasaggu119> next
+<gbot> HP, Ask your question. :jyoti, you are next.
+<HP> it is saying not a git repository (or any of the parent directories) priyankasaggu119
+<priyankasaggu119> yes
+<priyankasaggu119> everyone is getting the same error?
+<jyoti> yes
+<priyankasaggu119> if yes, you are getting a right answer
+<VAIBHAV_> yes
+<deepti> yes
+<priyankasaggu119> so, should i move forward?
+<Devanshgl55> yes
+<jyoti> yes
+<samarkaushik007> yes
+<HP> yes
+<priyankasaggu119> So, your error is stating that, we don't have any git repository initiated right now
+<priyankasaggu119> now everyone type
+<priyankasaggu119> --> git init
+<priyankasaggu119> this will initialize a new git repository
+<HP> yes
+<priyankasaggu119> done?
+<VAIBHAV_> yes
+<deepti> yes
+<jyoti> yes
+<Devanshgl55> yes
+<samarkaushik007> yes
+<priyankasaggu119> now, type--> git status
+<priyankasaggu119> and you will get something like
+<priyankasaggu119> On branch master
+<priyankasaggu119> No commits yet
+<priyankasaggu119> nothing to commit (create/copy files and use "git add" to track)
+<priyankasaggu119> done?
+<jyoti> yes
+<Devanshgl55> yes
+<samarkaushik007> yes
+<deepti> yes
+<priyankasaggu119> https://pasteboard.co/HZjogIT.png
+<priyankasaggu119> you will get a diagram.
+<priyankasaggu119> This is the structure/architecture/working of git
+<deepti> !
+<priyankasaggu119> And we are at the very first place right now, which is "working directory"
+<priyankasaggu119> we have to start now.
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question. :deepti, you are next.
+<priyankasaggu119> next
+<gbot> deepti, Ask your question.
+<deepti> how will i get diagram
+<priyankasaggu119> click the link, I have provided here.
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> everything is clear till now?
+<Devanshgl55> yes
+<jyoti> yes
+<deepti> yes
+<samarkaushik007> yes
+<VAIBHAV_> yes
+<HP> yes
+<priyankasaggu119> now, type--> nano test.txt and you will get a new screen which is GNU nano text editor.
+<priyankasaggu119> Type anything there like "This is a line."
+<priyankasaggu119> and close it by typing --> Ctrl-X
+<priyankasaggu119> -->Y
+<priyankasaggu119> and press enter
+<priyankasaggu119> done?
+<jyoti> !
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question.
+<VAIBHAV_> !
+<jyoti> notihng is happening by typing ctrl-x
+<HP> !
+<Devanshgl55> yes
+<priyankasaggu119> jyoti, it should happen. try it again
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question. :HP, you are next.
+<VAIBHAV_> a new text file is created(test.text) in the new folder that we made earlier? am i doing it right? @priyankasaggu119
+<pankajpoply45> Not type "Ctrl x" but press ctrl+x what Imisunderstood yesterday
+* Nishnt_ (~Nishnt@106.204.82.173) has joined
+<priyankasaggu119> yes VAIBHAV_ exactly.
+<priyankasaggu119> next
+<gbot> HP, Ask your question.
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<jyoti> !
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question.
+<priyankasaggu119> pankajpoply45, i feel like, pressing a key is typing also na. :)
+<jyoti> i returned to the git bash by pressing ctrl x ,is it right?
+<priyankasaggu119> yeah.
+<priyankasaggu119> should i move on now?
+<jyoti> yes
+<deepti> yes
+<samarkaushik007> yes
+<Devanshgl55> yes
+<Nishnt_> yes
+<priyankasaggu119> type --> git status
+<priyankasaggu119> and you will get test.txt under Untracked files.
+<samarkaushik007> yes
+<priyankasaggu119> With this, what we have done is
+<HP> !
+<priyankasaggu119> oh sorry
+<priyankasaggu119> next
+<gbot> HP, Ask your question.
+<priyankasaggu119> others type --> git config --global user.name "Your name"
+<HP> it is saying [ Error writing test.txt: Permission denied ]
+<HP>  priyankasaggu119
+<priyankasaggu119> when you got this error, HP. I mean after what command?
+<priyankasaggu119> I will end this session in 15 min. I have an exam tommorow. So, please be quick with your replies
+<HP> File Name to Write: test.txt
+<HP>  @priyankasaggu119
+<deepti> !
+<priyankasaggu119> HP, give a screenshot please. I am not getting you. :)
+<priyankasaggu119> next
+<gbot> deepti, Ask your question.
+<deepti> $ git config  global user.name"deepti"
+<deepti> error: key does not contain a section: global
+<deepti> is this right
+<priyankasaggu119> no
+* HP (~HP@157.36.179.206) has left ("Leaving")
+<deepti> then what to do
+<priyankasaggu119> deepti, firstly go back and see what i asked you to type
+<priyankasaggu119> and what you have written
+<priyankasaggu119> this command should give you no result at all
+* HP (~HP@157.36.179.206) has joined
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> should i move on?
+<Devanshgl55> yes
+<jyoti> yes
+<priyankasaggu119> type --> git config --global user.email "yourname@provider.com"
+<Devanshgl55> !
+<priyankasaggu119> With the above 2 commands, we are setting our two global variables in git which are user.name and user.email with your name and email.
+<priyankasaggu119> next
+<gbot> Devanshgl55, Ask your question.
+<Devanshgl55> how to check that i have done right
+<HP> !
+<priyankasaggu119> I will tell you in a sec
+<Devanshgl55> i mean where my name will be displayed
+<priyankasaggu119> next
+<gbot> HP, Ask your question.
+<Devanshgl55> ok
+<priyankasaggu119> HP, you got your screenshot?
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> type --> git config --list
+<priyankasaggu119> It will give you the configuration what you have set so far.
+<priyankasaggu119> fine till now?
+<jyoti> yes
+<Devanshgl55> yes
+<priyankasaggu119> should I move on?
+<Devanshgl55> yes
+<priyankasaggu119> 5 more minutes, I am in hurry now.
+<jyoti> yes
+<VAIBHAV_> yess
+<priyankasaggu119> So, type--> git add test.txt
+<priyankasaggu119> This will add your file from "working directory" to "staging area"
+<priyankasaggu119> refer the diagram
+<priyankasaggu119> to check, type --> git status
+<VAIBHAV_> !
+<priyankasaggu119> it will show "test.txt" under Changes to be commited
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question.
+<jyoti> !
+<HP> !
+<VAIBHAV_> https://pasteboard.co/HZk599J.png
+<priyankasaggu119> This is our last command for today. i am open for questions now. 
+<VAIBHAV_> i am getting this error @priyankasaggu119
+<priyankasaggu119> that is happening because you people are on windows VAIBHAV_ 
+<deepti> !
+<deepti> 1
+<deepti> !
+<gbot> deepti, Please wait for your turn. You are already in the queue.
+<priyankasaggu119> that's a warning only
+<deepti> !
+<gbot> deepti, Please wait for your turn. You are already in the queue.
+<deepti> !
+<gbot> deepti, Please wait for your turn. You are already in the queue.
+<priyankasaggu119> what are you doing deepti 
+<priyankasaggu119> wait a sec please
+<priyankasaggu119> VAIBHAV_, you just do git status
+<deepti> sorry sorry
+<priyankasaggu119> and you will see your file in green color
+<priyankasaggu119> and under the "changes to be commited"
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question. :HP, you are next.
+<VAIBHAV_> !
+<jyoti> i am not able to type any command after getting the list ,what should i do?
+<priyankasaggu119> Means? which list?
+<priyankasaggu119> give me a screenshot.
+<priyankasaggu119> next
+<gbot> HP, Ask your question. :deepti, you are next.
+<priyankasaggu119> I have doubt, HP , if you really have any question. I feel like you just like gbot calling your name :/
+<HP>              [ Error writing git add test.txt: Permission denied ]
+<HP> ^G Get Help  ^O Write Out ^W Where Is  ^K Cut Text  ^J Justify   ^C Cur Pos
+<HP> ^X Exit      ^R Read File ^\ Replace   ^U Uncut Text^T To Spell  ^_ Go To Line
+<HP> Eroor@priyankasaggu119
+<jyoti> i mean after giving the command -->git config --list,a list appears ,after that nothing is happening
+<priyankasaggu119> jyoti, type --> Ctrl-C
+<priyankasaggu119> and then you would be able to type.
+<priyankasaggu119> HP, please give a screenshot
+<jyoti> ok
+<priyankasaggu119> I am not getting you. You have the most advanced problems :D
+<priyankasaggu119> next
+<gbot> deepti, Ask your question. :VAIBHAV_, you are next.
+<deepti> i am not getting the right results
+<jyoti> !
+<priyankasaggu119> for what deepti? 
+<priyankasaggu119> I mean for which command?
+<priyankasaggu119> next
+<gbot> VAIBHAV_, Ask your question. :jyoti, you are next.
+<VAIBHAV_> https://pasteboard.co/HZk6uAy.png
+<priyankasaggu119> fine, it's right VAIBHAV_ 
+<VAIBHAV_> i am getting this?
+<priyankasaggu119> next
+<gbot> jyoti, Ask your question.
+<jyoti> i am typing but it is not appearing on the git bash
+<Devanshgl55> close it and reopen it
+<priyankasaggu119> close it and open it again 
+<priyankasaggu119> jyoti, 
+<jyoti> ok
+<priyankasaggu119> windows problem :(
+<priyankasaggu119> next
+<gbot> Noone is in the queue.
+<priyankasaggu119> any more questions?
+<Devanshgl55> no
+<priyankasaggu119> So, now, we just have moved from "working directory" to "staging area"
+<priyankasaggu119> We will do further in our next session.
+<priyankasaggu119> Give me your roll call.
+<priyankasaggu119> Type your names
+<Devanshgl55> devansh
+<deepti> !
+* Devanshgl55 has quit (Quit: Leaving)
+<priyankasaggu119> next
+<gbot> deepti, Ask your question.
+<Nishnt_> nishant
+<deepti> from above 2-3 commands i would not get the results
+<priyankasaggu119> deepti, You have to mention here what are the commands.
+<deepti> git config --global user.name "Your name"
+<priyankasaggu119> deepti, there was not any result for these'
+* jyoti has quit (Ping timeout: 256 seconds)
+<deepti> ok
+<Sourabh1031> deepti you have to type your name instead of your name
+<Sourabh1031> I.e deepti instead of your name in command
+<deepti> yes i typed my name yet didnot get any results
+* VAIBHAV_ has quit (Ping timeout: 250 seconds)
+<priyankasaggu119> You will get result for
+<priyankasaggu119> only
+<priyankasaggu119> git config --list
+<priyankasaggu119> nothing else
+<Sourabh1031> No problem it means it has successfully configured
+<priyankasaggu119> any more questions?
+<priyankasaggu119> Should I end now?
+* VAIBHAV_ (~VAIBHAV@106.204.105.47) has joined
+<Sourabh1031> This command output nothing in case of successful run
+<HP> Akhilesh
+* HP has quit (Quit: Leaving)
+<VAIBHAV_> vaibhav
+<Sourabh1031> Akhilesh change your nick
+<deepti> deepti
+<priyankasaggu119> Sourabh1031, he left
+<priyankasaggu119> ohk
+<priyankasaggu119> #endclass
+<gbot> Class is ended.
+* Sourabh1031 has quit ()
+<Nishnt_> nishant
+* deepti has quit (Quit: Leaving)
+<priyankasaggu119> #quit gbot 
+<gbot> Bye!!
